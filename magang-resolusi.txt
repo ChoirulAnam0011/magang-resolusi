@@ -2,3 +2,5 @@ Magang Resolusi
 - berjalan 6 bulan
 - belajar python
 - belajar odoo
+
+-belajar postgreSQL
