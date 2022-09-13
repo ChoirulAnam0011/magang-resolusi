@@ -1,6 +1,6 @@
 Magang Resolusi
 - berjalan 6 bulan
 - belajar python
-- belajar odoo
+-mengerti oop
 
 -belajar postgreSQL
